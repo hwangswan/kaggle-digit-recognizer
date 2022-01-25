@@ -9,7 +9,7 @@ Followed instructions at https://www.youtube.com/watch?v=iqQgED9vV7k
 
 ## Day 2:
 Followed tutorial on Kaggle: building a simple deep multilayer perceptron, 
-but using `mse` insted of `categorial_crossentropy`.
+but using `mse` instead of `categorial_crossentropy`.
 
 * Filename: DigitRecognizer-MLP.ipynb
 * Training accuracy: 0.9703968167304993
