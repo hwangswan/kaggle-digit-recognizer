@@ -3,9 +3,9 @@
 Followed instructions at https://www.youtube.com/watch?v=iqQgED9vV7k
 
 * Filename: DigitRecognizer.ipynb
-* Training accuracy: 0.9696969985961914
-* Training loss: 0.10577532649040222
-* Submission accuracy: 0.54000
+* Training accuracy: 0.9691919088363647
+* Training loss: 0.1161782518029213
+* Submission accuracy: 0.67975
 
 ## Day 2:
 Followed tutorial on Kaggle: building a simple deep multilayer perceptron, 
